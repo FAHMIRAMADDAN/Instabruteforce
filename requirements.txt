@@ -1,2 +1,3 @@
-webbot==0.34
-pynput==1.7.1
+beautifulsoup4==4.10.0  # HTML parser
+requests==2.26.0  # HTTP library
+tk==0.1.0  # GUI toolkit
